@@ -1,4 +1,4 @@
-﻿---
+---
 name: flood-extent-mapping
 description: Extract flood extent from SAR backscatter imagery. Use when the user wants to analyze changes, detect hazards, or generate assessment reports.
 ---
